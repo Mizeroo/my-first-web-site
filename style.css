@@ -520,6 +520,7 @@ color: #666666;
 .footer-4 i {
     display: inline-block;
     color:  #FFFFFF99;
+    cursor: pointer;
 
 
 }
@@ -608,4 +609,24 @@ color: #666666;
     line-height: 16px;
     letter-spacing: 0px;
     color:#FFFFFF66;
+}
+
+
+.heading-2{
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -1.2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+.heading{  
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
 }
